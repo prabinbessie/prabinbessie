@@ -2,9 +2,9 @@
   
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there! I'm Prabin
 
-<img src="https://capsule-render.vercel.app/api?text=Full-stack%20Developer%20🚀&animation=fadeIn&color=0:ff6b6b,50:4ecdc4,100:45b7d1&height=120&section=header&fontSize=50&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:4ecdc4,100:45b7d1&height=120&section=header&text=Full-stack%20Developer%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=Building+cool+stuff+with+code+💻;From+Kathmandu%2C+Nepal+🏔️;AI%2FML+%26+Fintech+Explorer+📊;Always+learning+something+new+🌱)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=Building+cool+stuff+with+code+💻;From+Kathmandu%2C+Nepal+🏔️;AI%2FML+%26+Fintech+Explorer+📊;Always+learning+something+new+🌱)
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
