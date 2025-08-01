@@ -23,8 +23,7 @@ passion:
   - AI/ML & Data Science
   - Fintech Solutions
   - Cloud Architecture
-current_focus: "Building scalable applications with modern tech"
-philosophy: "Code with purpose, build with passion"
+philosophy: "Growth isn’t a goal, it’s a habit — one commit at a time."
 ```
 
 ---
